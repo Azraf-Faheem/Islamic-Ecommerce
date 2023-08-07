@@ -1,0 +1,14 @@
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\BLL.dll
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\BLL.pdb
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\DAL.dll
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\EntityFramework.dll
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\DAL.pdb
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\DAL.dll.config
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\EntityFramework.xml
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\obj\Debug\BLL.dll
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\obj\Debug\BLL.pdb
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\AutoMapper.dll
+D:\Projects\Sunnah-Station\Sunnah_Station\BLL\bin\Debug\AutoMapper.xml
